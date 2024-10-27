@@ -25,4 +25,5 @@ I’ve worked with tools like Foundry, Echidna, Medusa, Certora, and TLA+ for fo
 
 ### Notes
 Each challenge folder contains a `Note.md` which includes all of my notes and explanations for the design of tests and my thought process. I really like to cover them in a YouTube video, but I'm not sure if it's possible for me based on my schedule or not. However, you can reach me directly if you have any questions.
+
 Join us as we take formal verification and property-based testing to new heights in bug detection while pushing back against the status quo. Let’s get started.
