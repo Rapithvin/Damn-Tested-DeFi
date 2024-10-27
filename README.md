@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to this project, where we’re cutting through the fluff to find bugs without needing to know a single line of a system's internals. The whole point is simple: define "what" systems should achieve, then let advanced testing methodologies tear through them to see if they hold up. This project builds on top of Damn Vulnerable DeFi, thanks to Tincho and his team. Massive shoutout to Tincho—he's a true legend and deserves serious respect. Check out his [repo](https://www.damnvulnerabledefi.xyz/), [blog](https://blog.theredguild.org/author/tincho/), or [YouTube](https://www.youtube.com/@watchtheredguild) if you haven’t already.
+Welcome to this project, where we’re cutting through the fluff to find bugs without needing to know a single line of a system's internals. The whole point is simple: define "what" systems should achieve, then let advanced testing methodologies tear through them to see if they hold up. This project builds on top of Damn Vulnerable DeFi, thanks to Tincho and his team. Massive shoutout to Tincho—he's a true legend and deserves serious respect. Check out his [Damn vulnerable Defi Repo](https://www.damnvulnerabledefi.xyz/), [Blog](https://blog.theredguild.org/author/tincho/), or [YouTube](https://www.youtube.com/@watchtheredguild) if you haven’t already.
 
 ## Objective
 
